@@ -7,4 +7,4 @@
 5. https://www.npmjs.com/package/pm2
 6. Сбилдить проект (завершится с парой ошибок — это нормально)
 7. `pm2 start npm --name "Node.js" -- start`
-
+ 
